@@ -2,6 +2,8 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+[![Build Status](https://dev.azure.com/codestellar/Azure%20DevOps%20Community%20Launch%20Event%20-%20Mohali%202019/_apis/build/status/Azure%20DevOps%20Community%20Launch%20Event%20-%20Mohali%202019-CI?branchName=master)](https://dev.azure.com/codestellar/Azure%20DevOps%20Community%20Launch%20Event%20-%20Mohali%202019/_build/latest?definitionId=4?branchName=master)
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
